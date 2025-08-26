@@ -3,7 +3,7 @@ import Link from "next/link";
 import ContactForm from "@/components/form";
 
 export default function LandingPage() {
-  const productName = "Lynx Systems - Club Management CRM";
+  const productName = "Lynx Onboard";
 
   const features = [
     {
