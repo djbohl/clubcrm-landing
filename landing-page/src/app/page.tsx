@@ -146,7 +146,6 @@ export default function LandingPage() {
       </section>
 
       <div className="py-16" id="demo-request">
-        <h1 className="text-3xl font-bold text-center mb-6">Request a Demo</h1>
         <ContactForm />
       </div>
 

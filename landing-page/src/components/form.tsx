@@ -20,9 +20,9 @@ export default function ContactForm() {
       onSubmit={handleSubmit}
       className="max-w-lg mx-auto p-8 bg-background text-foreground border border-gray-200 dark:border-gray-800 rounded-2xl shadow-sm space-y-6"
     >
-      <h2 className="text-2xl font-bold text-center">Join the Club 🚀</h2>
+      <h2 className="text-2xl font-bold text-center">Request a Demo 🚀</h2>
       <p className="text-center text-sm opacity-80">
-        Sign up to stay updated with the latest news.
+        Fill out a demo request to learn more about our system.
       </p>
 
       {/* Company Name */}
